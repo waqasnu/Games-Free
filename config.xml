@@ -16,7 +16,7 @@
       Waqasnu
   </author>
   
-      <icon src="res/icon.png" />
+      <icon src="res/icon/icon.png" />
 
   <access origin="*"/>
     <!-- Added the following intents to support the removal of whitelist code from base cordova to a plugin -->
